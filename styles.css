@@ -1,0 +1,48 @@
+body {
+    background-image: url(https://images4.alphacoders.com/109/1092359.jpg);
+    background-position: top;
+    background-attachment: scroll;
+    width: 80%;
+    margin: 0 auto;
+}
+
+#logo {
+    z-index: 1;
+}
+
+#carousel {
+    margin-top: -100px;
+}
+
+.carousel {
+    border-style: solid;
+    box-shadow: 0 0 30px 10px #301c16;
+}
+
+.card {
+    border-radius: 0px;
+    border-color: black;
+    box-shadow: 0 0 30px 10px #301c16;
+}
+
+
+.card img {
+    border-radius: 0px;
+    height: 275px;
+}
+
+.btn {
+    background-color: #854521;
+    border-color: #723a1a;
+}
+
+
+#accordionFlushExample {
+    box-shadow: 0 0 30px 10px #301c16;
+}
+
+.carousel,
+.card,
+#accordionFlushExample {
+
+}
